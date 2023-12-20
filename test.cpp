@@ -1,1 +1,4 @@
-help me
+int main()
+{
+    return 0;
+}
